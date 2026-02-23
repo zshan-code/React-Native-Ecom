@@ -6,8 +6,6 @@
   <a href="https://github.com/zshan-code/">GitHub</a> • <a href="https://www.facebook.com/zshan.code">Facebook</a>
 </p>
 
-![Demo App](/admin/public/screenshot-for-readme.png)
-
 ✨ **Highlights:**
 
 - 📱 Fully Functional E-Commerce Mobile App (React Native + Expo)
